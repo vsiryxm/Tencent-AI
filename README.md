@@ -1,4 +1,6 @@
-# 腾讯AI PHP-SDK
+# 腾讯AI：PHP-SDK实践与快速入门
+
+手把手教你整合AI接口教程：https://www.kancloud.cn/vsiryxm/tencent_sdk/466363
 
 主要整合了如下功能：
 
